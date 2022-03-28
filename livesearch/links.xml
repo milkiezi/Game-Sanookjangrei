@@ -1,0 +1,91 @@
+<pages>
+<link>
+<title>amongus</title>
+<url>game.php?page_id=3</url>
+</link>
+
+<link>
+<title>Final Fantasy 7 Remake</title>
+<url>game.php?page_id=4</url>
+</link>
+
+<link>
+<title>Resident Evil 2 Remake</title>
+<url>game.php?page_id=5</url>
+</link>
+
+<link>
+<title>Marvel's Spider-Man Miles Morales</title>
+<url>game.php?page_id=2</url>
+</link>
+
+<link>
+<title>Shadow of the Tomb Raider</title>
+<url>game.php?page_id=6</url>
+</link>
+
+<link>
+<title>Tom and Jerry : Chase</title>
+<url>game.php?page_id=1</url>
+</link>
+
+<link>
+<title>Apex legend</title>
+<url>game.php?page_id=7</url>
+</link>
+
+<link>
+<title>Tekken 7</title>
+<url>game.php?page_id=8</url>
+</link>
+
+<link>
+<title>Osu!</title>
+<url>game.php?page_id=9</url>
+</link>
+
+<link>
+<title>action</title>
+<url>typegame.php?typegame=action</url>
+</link>
+
+<link>
+<title>adventure</title>
+<url>typegame.php?typegame=adventure</url>
+</link>
+
+<link>
+<title>fantasy</title>
+<url>typegame.php?typegame=fantasy</url>
+</link>
+
+<link>
+<title>horror</title>
+<url>typegame.php?typegame=horror</url>
+</link>
+
+<link>
+<title>survival</title>
+<url>typegame.php?typegame=survival</url>
+</link>
+
+<link>
+<title>Fps</title>
+<url>typegame.php?typegame=fps</url>
+</link>
+
+<link>
+<title>battle royale</title>
+<url>.typegame.php?typegame=battleroyale</url>
+</link>
+
+<link>
+<title>fighting</title>
+<url>typegame.php?typegame=fighting</url>
+</link>
+
+<link>
+<title>rhythm</title>
+<url>typegame.php?typegame=rhythm</url>
+</link>
+</pages>
