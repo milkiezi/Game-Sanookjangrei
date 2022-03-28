@@ -1,8 +1,8 @@
 # Game-Sanookjangrei (CP251 Project, 2nd Year/Semester 1)
 Member
-1)
-2)
-3)
+1) Papapin Supmee 62102010173
+2) Sakunit Iamenetre 62102010188
+3) Natkrita Hanchoenkul 62102010434
 
 การติดตั้ง 
 1) ใช้โปรแกรม XAMMP ในการเปิดprojectตัวนี้
