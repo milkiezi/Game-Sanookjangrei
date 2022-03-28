@@ -1,4 +1,4 @@
-# Game-Sanookjangrei (CP251 Project, 2nd Year)
+# Game-Sanookjangrei (CP251 Project, 2nd Year/Semester 1)
 Member
 1)
 2)
